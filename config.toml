@@ -1,0 +1,86 @@
+baseurl      = "https://ShristiDasBiswas.github.io"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "A simple and beautiful blog"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Shristi Das Biswas"
+    subtitle = "Welcome to my website"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+
+
+    [languages.en.params.logo]
+      logoText = "cd /home/sdasbisw"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "experience"
+    name       = "Experience"
+    url        = "experience/"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+
+  [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "publications/"
+
+  [[menu.main]]
+    identifier = "achievements"
+    name       = "Achievements"
+    url        = "achievements/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/ShristiDasBiswas"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:sdasbisw@purdue.edu"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/eyeshristi/"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/shristi-das-biswas-bb0721152/"
