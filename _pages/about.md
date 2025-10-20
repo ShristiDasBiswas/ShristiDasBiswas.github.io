@@ -33,6 +33,12 @@ I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue Unive
 - **Continual Adaptation of generative models** – scalable lifelong learning in LLMs. - **Compressed video understanding** – compute-efficient dual-stream architectures for efficient video processing. 
 - **Controllable and creative content creation** – inference-time exemplar-based image editing without retraining for the refererence image-following objective.
 
-My work is motivated by the intersection of **trustworthy AI**, **efficient generative modeling**, **continual capability improvement**, and **foundation model alignment**. I focus on building **training-free mathematical frameworks** that require **no finetuning, no additional data, and no architectural changes**. Previously, I worked as an **Applied Science Intern at Amazon AWS and Amazon Fashion** working on adaptive multi-agent LLM routing, and creative imagery generation for producing lifestyle content. 
+My work is motivated by the intersection of **Trustworthy AI**, **Efficient Generative Modeling**, **Continual Capability Improvement**, and **Foundation Model Alignment**. I focus on building **training-free mathematical frameworks** that enumerate and help understand knowledge inside generative image and language models.
 
-I have also served as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, and **AAAI**, where I serve in the **Program Committee**. --- ### Research Interests **Diffusion models · Model editing · Concept unlearning · Trustworthy ML · Generative compression · Continual learning · Efficient foundation models**
+Previously, I worked as an **Applied Science Intern at Amazon AWS** and **Amazon Fashion**, working on Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
+
+I have serve as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, and **AAAI**, where I also serve in the **Program Committee**. 
+
+
+*Research Interests*
+**Diffusion models · Model editing · Concept unlearning · Trustworthy ML · Generative compression · Continual learning · Efficient foundation models**
