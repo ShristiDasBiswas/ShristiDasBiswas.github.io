@@ -20,3 +20,12 @@
 "ICCV":
   url: https://cvpr.thecvf.com/
   color: "#00369f"
+
+
+"ICDCN":
+  url: https://dl.acm.org/doi/proceedings/10.1145/3369740
+  color: "#003399"
+
+"CIPR":
+  url: https://link.springer.com/book/10.1007/978-981-15-2449-3
+  color: "#0b7002"
