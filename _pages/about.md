@@ -15,7 +15,7 @@ profile:
         <a href="https://scholar.google.com/citations?hl=en&user=CrjxYc0AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         <a href="https://www.linkedin.com/in/shristi-das-biswas-bb0721152" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/ShristiDasBiswas" title="GitHub"><i class="fa-brands fa-github"></i></a>
-        <a href="assets/pdf/Resume-ShristiDasBiswas" target="_blank"><i class="fas fa-file-alt"></i></a>
+        <a href="assets/pdf/Resume-ShristiDasBiswas.pdf" target="_blank"><i class="fas fa-file-alt"></i></a>
       </div>
     </div>
     
@@ -36,11 +36,17 @@ I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue Unive
 
 My work is motivated by the intersection of **Trustworthy AI**, **Efficient Generative Modeling**, **Continual Capability Improvement**, and **Foundation Model Alignment**. I focus on building **training-free mathematical frameworks** that enumerate and help understand knowledge inside generative image and language models.
 
-Previously, I worked as an **Applied Science Intern** at **Amazon AWS** and **Amazon Fashion**, working on Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
+Previously, I worked as an **Applied Science Intern** at <span style="color:#7c3aed">**Amazon AWS**</span> and <span style="color:#7c3aed">**Amazon Fashion**</span>, working on Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
 
 I have serve as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, and **AAAI**, where I also serve in the **Program Committee**. 
 
 
 ***Research Interests***
 
-**Diffusion models · Model editing · Concept unlearning · Trustworthy ML · Generative compression · Continual learning · Efficient foundation models**
+<span style="color:#2563eb"><strong>Diffusion models</strong></span> · 
+<span style="color:#2563eb"><strong>Model editing</strong></span> · 
+<span style="color:#2563eb"><strong>Concept unlearning</strong></span> · 
+<span style="color:#2563eb"><strong>Trustworthy ML</strong></span> · 
+<span style="color:#2563eb"><strong>Generative compression</strong></span> · 
+<span style="color:#2563eb"><strong>Continual learning</strong></span> · 
+<span style="color:#2563eb"><strong>Efficient foundation models</strong></span>
