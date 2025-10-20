@@ -1,0 +1,83 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shristi Das Biswas
+    - name: Email
+      value: sdasbisw@purdue.edu
+    - name: GitHub
+      value: https://github.com/ShristiDasBiswas
+    - name: Google Scholar
+      value: https://scholar.google.com/citations?user=CrjxYc0AAAAJ&hl=en
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/shristi-das-biswas-bb0721152/
+    - name: Languages
+      value: English, Bengali, Hindi,
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Electrical and Computer Engineering
+      institution: Purdue University, West Lafayette, Indiana, USA
+      year: 2021 – Present
+      description:
+        - <a>Advisor:</a> Prof. Kaushik Roy
+        - <a>Research Topic:</a> Energy-Efficient Deep Learning and Responsible Generative AI
+        - <a>GPA:</a> 3.81 / 4.0
+    - title: B.Tech. in Electronics and Telecommunication Engineering
+      institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur, India
+      year: 2017 – 2021
+      description:
+        - <a>GPA:</a> 9.39 / 10.0 (Department Rank 2 / 61)
+
+- title: Internship Experience
+  type: time_table
+  contents:
+    - title: Applied Science Intern
+      institution: Amazon Kumo (AWS Support), Bellevue, WA
+      year: 2025 – 2025
+      description:
+        - Developed continual learning algorithms for large language models (ELLA), reducing catastrophic forgetting while improving forward transfer and scalability.
+        - Achieved up to 9.6% relative accuracy gain and 35× smaller memory footprint across LLaMA and T5 models with formal analysis of anisotropic shrinkage regularization.
+        - Benchmarked against Claude 3.5 Haiku/Sonnet showing ∼ 59× lower latency and 99% lower annual cost.
+    - title: Applied Science Intern
+      institution: Amazon Fashion, Sunnyvale, CA
+      year: 2024 – 2024
+      description:
+        - Designed PIXELS, a progressive exemplar-driven image editing framework using diffusion models for customizable and imitation-based editing during inference.
+        - Improved exemplar fidelity by 41% and visual realism by 33.6% in user studies.
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: NeurIPS 2025 Scholar Award
+      year: 2025
+      description: Awarded for research on efficient and responsible AI systems in diffusion and LLMs.
+    - title: Google CS Research Mentorship Program Scholar
+      year: 2023
+      description: Selected for Google CS Research Mentorship Program 2023b Cohort.
+    - title: Indian Academy of Sciences Summer Research Fellowship
+      year: 2020
+      description: Selected for competitive national research program by IAS.
+    - title: IEEE Women in Engineering Best Student/Research Scholar Paper Award
+      year: 2020
+      description: Awarded for paper presented at ICDCN 2020.
+    - title: Indian Youth Delegate to China
+      year: 2019
+      description: Selected nationally by Ministry of Youth Affairs and Sports, Government of India.
+
+- title: Academic Service
+  type: list
+  contents:
+    - <u>Reviewer for Conferences:</u> NeurIPS, ICLR, CVPR, ICCV, AAAI, WACV, IJCNN
+    - <u>Program Committee:</u> AAAI
+
+- title: Technical Strengths
+  type: list
+  contents:
+    - <u>Programming Languages:</u> Python, MATLAB, C/C++, Bash
+    - <u>Frameworks:</u> PyTorch, TensorFlow, LaTeX
+    - <u>EDA and Hardware Tools:</u> Cadence Virtuoso, LTSpice
+    - <u>Version Control:</u> Git, GitHub
+    - <u>Languages:</u> English (fluent), Bengali (native), Hindi (proficient)

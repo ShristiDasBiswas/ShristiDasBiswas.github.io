@@ -1,0 +1,22 @@
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#00369f"
+
+"NeurIPS":
+  url: "https://neurips.cc/"
+  color: "#0b7002"
+
+"arXiv":
+  color: "#780413"
+
+"WACV":
+  url: https://wacv2025.thecvf.com/
+  color: "#07DFD5"
+
+"AAAI":
+  url: https://aaai.org/conference/aaai/aaai-26/
+  color: "#27C108"
+
+"ICCV":
+  url: https://cvpr.thecvf.com/
+  color: "#00369f"
