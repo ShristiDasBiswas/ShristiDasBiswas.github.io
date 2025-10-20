@@ -4,15 +4,15 @@
     - name: Full Name
       value: Shristi Das Biswas
     - name: Email
-      value: sdasbisw@purdue.edu
+      value: <a href="mailto:sdasbisw@purdue.edu">sdasbisw@purdue.edu</a>
     - name: GitHub
-      value: https://github.com/ShristiDasBiswas
+      value: <a href="https://github.com/ShristiDasBiswas">ShristiDasBiswas</a>
     - name: Google Scholar
-      value: https://scholar.google.com/citations?user=CrjxYc0AAAAJ&hl=en
+      value: <a href="https://scholar.google.com/citations?user=CrjxYc0AAAAJ&hl=en">Profile</a>
     - name: LinkedIn
-      value: https://www.linkedin.com/in/shristi-das-biswas-bb0721152/
+      value: <a href="https://www.linkedin.com/in/shristi-das-biswas-bb0721152/">Profile</a>
     - name: Languages
-      value: English, Bengali, Hindi,
+      value: English, Bengali, Hindi, Japanese
 
 - title: Education
   type: time_table
@@ -40,12 +40,14 @@
         - Developed continual learning algorithms for large language models (ELLA), reducing catastrophic forgetting while improving forward transfer and scalability.
         - Achieved up to 9.6% relative accuracy gain and 35× smaller memory footprint across LLaMA and T5 models with formal analysis of anisotropic shrinkage regularization.
         - Benchmarked against Claude 3.5 Haiku/Sonnet showing ∼ 59× lower latency and 99% lower annual cost.
+        - Workshop Paper accepted at NeurIPS CCFM Worshop 2025; Full paper submitted to ARR.
     - title: Applied Science Intern
       institution: Amazon Fashion, Sunnyvale, CA
       year: 2024 – 2024
       description:
         - Designed PIXELS, a progressive exemplar-driven image editing framework using diffusion models for customizable and imitation-based editing during inference.
         - Improved exemplar fidelity by 41% and visual realism by 33.6% in user studies.
+        - Full paper accepted at AAAI 2024.
 
 
 - title: Honors and Awards
