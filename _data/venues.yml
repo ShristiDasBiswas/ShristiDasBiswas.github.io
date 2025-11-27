@@ -29,3 +29,7 @@
 "CIPR":
   url: https://link.springer.com/book/10.1007/978-981-15-2449-3
   color: "#0b7002"
+
+"WACV":
+  url: https://wacv2026.thecvf.com/
+  color: "#07DFD5"

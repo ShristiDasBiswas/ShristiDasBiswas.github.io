@@ -43,10 +43,11 @@ I have served as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, 
 ---
 ***Research Interests***
 
-<span class="pill">Diffusion models</span>
-<span class="pill">Model editing</span>
-<span class="pill">Concept unlearning</span>
+<span class="pill">Diffusion Models</span>
+<span class="pill">Model Editing</span>
+<span class="pill">Continual Learning for Customization</span>
+<span class="pill">Concept Unlearning</span>
 <span class="pill">Trustworthy ML</span>
-<span class="pill">Generative compression</span>
-<span class="pill">Continual learning</span>
-<span class="pill">Efficient foundation models</span>
+<span class="pill">Multi-Modal Coreset Selection</span>
+<span class="pill">Generative Compression</span>
+<span class="pill">Efficient Foundation Models</span>
