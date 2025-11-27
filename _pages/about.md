@@ -15,7 +15,7 @@ profile:
         <a href="https://scholar.google.com/citations?hl=en&user=CrjxYc0AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         <a href="https://www.linkedin.com/in/shristi-das-biswas-bb0721152" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/ShristiDasBiswas" title="GitHub"><i class="fa-brands fa-github"></i></a>
-        <a href="assets/pdf/Resume-ShristiDasBiswas.pdf" target="_blank"><i class="fas fa-file-alt"></i></a>
+        <a href="assets/pdf/Resume_ShristiDasBiswas.pdf" target="_blank"><i class="fas fa-file-alt"></i></a>
       </div>
     </div>
     
