@@ -39,14 +39,15 @@ My work is motivated by the intersection of **Trustworthy AI**, **Efficient Gene
 
 
 ---
-<h3 style="color: #1c4e80;">Past Experiences</h3>
+<h3 style="color: #d414abff;">Past Experiences</h3>
 
 Previously, I worked as an **Applied Science Intern** at <span class="accent">**Amazon AWS**</span> and <span class="accent">**Amazon Fashion**</span>, working on Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
 
 I have served as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, and **AAAI**, where I also serve in the **Program Committee**. 
+
 ---
 
-<h3 style="color: #1c4e80;">Research Interests</h3>
+<h3 style="color: #d414abff;">Research Interests</h3>
 
 <span class="pill">Diffusion Models</span>
 <span class="pill">Model Editing</span>
