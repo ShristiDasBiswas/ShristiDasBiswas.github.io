@@ -26,7 +26,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue University**, advised by **Prof. Kaushik Roy** (NRL). My research develops **safe, controllable, and efficient foundation models**, spanning:
+I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue University**, advised by [Prof. Kaushik Roy](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate){:target="\_blank} (NRL). My research develops **safe, controllable, and efficient foundation models**, spanning:
 
 - **Concept Unlearning & Safety in Generative Models** – Removing harmful/unwanted concepts without retraining in T2I and T2V. 
 - **Multimodal Coreset Learning for LVLMs** - Training-free image-text coreset selection to accelerate training of Vision-Language Models without compromising performance.
@@ -39,15 +39,15 @@ My work is motivated by the intersection of **Trustworthy AI**, **Efficient Gene
 
 
 ---
-<h3 style="color: #d414abff;">Past Experiences</h3>
+<h4 style="color: #d414abff;">Past Experiences</h4>
 
-Previously, I worked as an **Applied Science Intern** at <span class="accent">**Amazon AWS**</span> and <span class="accent">**Amazon Fashion**</span>, working on Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
+Previously, I was an **Applied Science Intern** at <span class="accent">**Amazon AWS**</span> in 2025 and <span class="accent">**Amazon Fashion**</span> in 2024, working on pushing SOTA in Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
 
 I have served as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, and **AAAI**, where I also serve in the **Program Committee**. 
 
 ---
 
-<h3 style="color: #d414abff;">Research Interests</h3>
+<h4 style="color: #d414abff;">Research Interests</h4>
 
 <span class="pill">Diffusion Models</span>
 <span class="pill">Model Editing</span>
