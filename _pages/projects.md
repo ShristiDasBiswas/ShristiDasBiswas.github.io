@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Safe, efficient, and controllable generative AI — concept unlearning, training-free efficiency, continual adapters, efficient video understanding.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [safety, efficiency, continual, vision]   # your buckets
 horizontal: false                                             # cards in a grid
