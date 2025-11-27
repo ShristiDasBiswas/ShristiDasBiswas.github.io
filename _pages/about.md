@@ -28,11 +28,15 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue University**, advised by **Prof. Kaushik Roy** (NRL). My research develops **safe, controllable, and efficient foundation models**, spanning:
 
-- **Concept Unlearning & Safety in Generative Models** – removing harmful/unwanted concepts without retraining. 
-- **Generative Model Efficiency** – training-free inference acceleration and dynamic compression of diffusion models. 
-- **Continual Adaptation of Language Models** – scalable lifelong learning in LLMs. 
-- **Efficient Video Understanding** – compute-efficient dual-stream architectures for efficient video processing using spiking neural streams. 
-- **Controllable and Creative Content Creation** – inference-time exemplar-based image editing without retraining for the refererence image-following objective.
+- **Concept Unlearning & Safety in Generative Models** – Removing harmful/unwanted concepts without retraining in T2I and T2V. 
+- **Multimodal Coreset Learning for LVLMs** - Training-free image-text coreset selection to accelerate training of Vision-Language Models without compromising performance.
+- **Generative Model Efficiency** – Training-free inference acceleration and dynamic compression of diffusion models. 
+- **Continual Adaptation of Language Models** – Scalable lifelong learning in LLMs for Continual Customization. 
+- **Efficient Video Understanding** – Compute-efficient dual-stream architectures for efficient video processing using spiking neural streams. 
+- **Controllable and Creative Content Creation** – Inference-time exemplar-based image editing without retraining for Diffusion Models.
+
+---
+***Past Experiences***
 
 My work is motivated by the intersection of **Trustworthy AI**, **Efficient Generative Modeling**, **Continual Capability Improvement**, and **Foundation Model Alignment**. I focus on building **training-free mathematical frameworks** that enumerate and help understand knowledge inside generative image and language models.
 
