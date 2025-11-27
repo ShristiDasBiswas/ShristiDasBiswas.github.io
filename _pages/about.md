@@ -38,12 +38,13 @@ I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue Unive
 ---
 ***Past Experiences***
 
+<div style="color: #666666;">
 My work is motivated by the intersection of **Trustworthy AI**, **Efficient Generative Modeling**, **Continual Capability Improvement**, and **Foundation Model Alignment**. I focus on building **training-free mathematical frameworks** that enumerate and help understand knowledge inside generative image and language models.
 
 Previously, I worked as an **Applied Science Intern** at <span class="accent">**Amazon AWS**</span> and <span class="accent">**Amazon Fashion**</span>, working on Adaptive Multi-agent LLM Routing, and Creative Diffusion-Based Imagery Generation for Producing Lifestyle Content. 
 
 I have served as a peer reviewer for **NeurIPS, ICCV, CVPR, ICLR, AAAI, WACV**, and **AAAI**, where I also serve in the **Program Committee**. 
-
+</div>
 ---
 ***Research Interests***
 
