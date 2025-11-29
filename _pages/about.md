@@ -28,12 +28,12 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. researcher in Electrical and Computer Engineering at **Purdue University**, advised by [Prof. Kaushik Roy](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate){:target="\_blank} (NRL). My research develops **safe, controllable, and efficient foundation models**, spanning:
 
-- **Concept Unlearning & Safety in Generative Models** – Removing harmful/unwanted concepts without retraining in T2I and T2V. 
-- **Multimodal Coreset Learning for LVLMs** - Training-free image-text coreset selection to accelerate training of Vision-Language Models without compromising performance.
-- **Generative Model Efficiency** – Training-free inference acceleration and dynamic compression of diffusion models. 
-- **Continual Adaptation of Language Models** – Scalable lifelong learning in LLMs for Continual Customization. 
-- **Efficient Video Understanding** – Compute-efficient dual-stream architectures for efficient video processing using spiking neural streams. 
-- **Controllable and Creative Content Creation** – Inference-time exemplar-based image editing without retraining for Diffusion Models.
+- **Concept Unlearning & Safety in Generative Models** – Removing Harmful/Copyrighted Concepts without retraining in T2I and T2V. 
+- **Multimodal Coreset Learning for LVLMs** - Training-free Image-Text Coreset Selection to Accelerate Finetuning of Vision-Language Models without compromising performance.
+- **Generative Model Efficiency** – Post-Training Inference Acceleration and Dynamic Compression of Diffusion Models. 
+- **Continual Adaptation of Language Models** – Scalable Lifelong Learning in LLMs for Continual Customization. 
+- **Efficient Video Understanding** – Compute-Efficient Dual-stream architectures for Efficient Video Processing. 
+- **Controllable and Creative Content Creation** – Inference-time Exemplar-based Image Editing for Generative Models.
 
 My work is motivated by the intersection of **Trustworthy AI**, **Efficient Generative Modeling**, **Continual Capability Improvement**, and **Foundation Model Alignment**. I focus on building **training-free mathematical frameworks** that enumerate and help understand knowledge inside generative image and language models.
 
