@@ -33,3 +33,7 @@
 "WACV":
   url: https://wacv2026.thecvf.com/
   color: "#07DFD5"
+
+"EACL":
+  url: https://2026.eacl.org/
+  color: "#00369f"
